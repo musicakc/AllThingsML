@@ -25,8 +25,11 @@ where x is the independent variable and y the dependent variable
 
 
 ## Classification Predictive Modeling 
-Classification consists of algorithms predicting a discrete output variable(s) (labels/categories) so the mapping function predicts the labels for any given test observation. Examples: kNN, K-means clustering, Logistic Regression
+Classification consists of algorithms predicting a discrete output variable(s) (labels/categories) so the mapping function predicts the labels for any given test observation. Examples: kNN, K-means clustering, Logistic Regression, Random Forests
 
 ### Logistic Regression
-
+Classification problems that have two possible outcomes, uses the logistic function to output a value between 0 and 1.
+```sh
+![equation](http://www.sciweavers.org/tex2img.php?eq=logisitic%28x%29%20%3D%20%5Cfrac%7B1%7D%7B1%2B%20exp%5E%7B-x%7D%20%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+```
 ### Random Forests 
