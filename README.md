@@ -32,4 +32,11 @@ Classification problems that have two possible outcomes, uses the logistic funct
 
 ![equation](http://www.sciweavers.org/tex2img.php?eq=logisitic%28x%29%20%3D%20%5Cfrac%7B1%7D%7B1%2B%20exp%5E%7B-x%7D%20%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-### Random Forests 
+
+## Random Forests 
+A supervised learning algorithm, random forests can be used for classification or regression problems. Essentially, a random forest is an ensemble of decision trees.
+A random forest adds additional randomness to the model, by searching for the best feature among a random subset of features while splitting a node; giving a wider diversity to the model.
+Also, a random forest is able to evaluate feature importance on the prediction, by looking at how each tree node used by that feature reduces impurity across all the decision trees in the forest.  
+
+## Some Terms Used in ML World
+### Hyperparameter Tuning: Used to define the model architecture,
