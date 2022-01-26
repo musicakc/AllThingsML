@@ -1,5 +1,5 @@
 # AllThingsML
-Self Guide to Machine Learning and Data Science
+Self Guide to Machine Learning
 
 ## Machine Learning
 A lot of definitions can be found online, the one I like best is computers learning to improve with experience(data).
