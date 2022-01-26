@@ -40,3 +40,5 @@ Also, a random forest is able to evaluate feature importance on the prediction, 
 
 ## Some Terms Used in ML World
 ### Hyperparameter Tuning: Used to define the model architecture,
+
+### Data Warehouse : A place where raw data is transformed into query-able format.
